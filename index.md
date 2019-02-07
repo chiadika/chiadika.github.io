@@ -20,7 +20,7 @@ take an unreasonable amount of time or space to construct (such as the
 control logic).
 <br><br>
 
-<!--- pic here ---!>
+![](https://chiadika.github.io/assets/unfinished8bit.jpg)
 
 Shown in the picture is the clock (upper left corner), RAM 
 (directly below the clock), program counter (upper right 
