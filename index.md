@@ -38,7 +38,9 @@ this computer; it utilizes a von Neumann architecture with a central
 bus and various components - like the ALU, registers, and RAM - 
 connected to it. There's one important distinction, however - the LC3's 
 bus is 16 bits wide, and its list of instructions looks something like 
-this: <image>
+this: 
+
+![](https://chiadika.github.io/assets/LC3ISA.png)
 
 This project doesn't have the flexibility for things like 9-bit 
 offsets. While it certainly doesn't need the capability the LC3 
