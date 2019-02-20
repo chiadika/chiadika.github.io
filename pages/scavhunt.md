@@ -91,7 +91,11 @@ podium - another reflection of Unitarian values considering everyone as equal.
 <img src="/assets/podangle.jpg" style="width:50%">
 <img src="/assets/audangle.jpg" style="width:50%"> 
 
-This is an image from Google Earth 
+This is an image from Google Earth showing the surroundings of the church. The 
+building is very obviously in a suburban context, which shows both its history 
+and its beliefs - a place not for worship necessarily, but rather a place for 
+meeting, community, and understanding. It's in a location accessible to all, 
+whether low-status or high-status. 
 
 <img src="/assets/1stUniChurchEarth.PNG" style="width:50%">
 
