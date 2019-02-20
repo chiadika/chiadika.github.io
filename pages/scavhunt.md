@@ -16,16 +16,19 @@ img {
 ![](/assets/ya.jpg)
 
 
-And this is some text
+The First Unitarian Church was made by Louis Kahn, first concieved of in 
+1959 and finished in 1962. It served as a space not only for Unitarian 
+Universalists, but also as a community center and a teaching center for 
+the schoolchildren that attended the church. K
 
 This image is the first plan made by Louis Kahn in December 1959 
 (citation)
 
-<img src="/assets/FUCPlanI.png" alt="PlanI" style="width:50%;">
+<img src="/assets/FUCPlanI.PNG" alt="PlanI" style="width:50%;">
 
 This image is the second plan made by Louis Kahn in January 1961
 
-<img src="/assets/FUCPlanII.png" style="width:50%">
+<img src="/assets/FUCPlanII.PNG" style="width:50%">
 
 And this is the evolution of the form drawing (citation) 
 
