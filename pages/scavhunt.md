@@ -21,6 +21,9 @@ The First Unitarian Church was made by Louis Kahn, first concieved of in
 Universalists, but also as a community center and a teaching center for 
 the schoolchildren that attended the church. K
 
+<img src="/assets/FormDrawing.jpg|" style="width:50%">
+
+
 This image is the first plan made by Louis Kahn in December 1959 
 
 
