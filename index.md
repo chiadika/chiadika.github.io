@@ -3,12 +3,11 @@ layout: default
 title: Chiadika's Personal Projects
 ---
 
-
 ## Building an 8-bit computer from scratch
 
 <br><br>
 This project (unfinished and pictured below) is based off of and 
-primarily inpsired by Ben Eater's 
+primarily inspired by Ben Eater's 
 8-bit computer, 
 which can be found 
 [here](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU).
