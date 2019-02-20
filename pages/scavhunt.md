@@ -22,7 +22,7 @@ Universalists, but also as a community center and a teaching center for
 the schoolchildren that attended the church. K
 
 This image is the first plan made by Louis Kahn in December 1959 
-(citation)
+
 
 <img src="/assets/FUCPlanI.PNG" alt="PlanI" style="width:50%;">
 
@@ -42,6 +42,10 @@ Here is an image of the exterior
 This is an image from Google Earth 
 
 <img src="/assets/1stUniChurchEarth.PNG" style="width:50%">
+
+A hand-drawn sketch of the building:
+
+<img src="/assets/FUCDrawing.jpg" style="width:50%">
 
 <br></br>
 
