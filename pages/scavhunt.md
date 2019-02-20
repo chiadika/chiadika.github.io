@@ -32,7 +32,7 @@ This image is the second plan made by Louis Kahn in January 1961
 
 And this is the evolution of the form drawing (citation) 
 
-<img src="/assets/FUCFormEvolution.png" style="width:60%">
+<img src="/assets/FUCFormEvolution.PNG" style="width:60%">
 
 Here is an image of the exterior 
 
