@@ -6,6 +6,9 @@ title: Chiadika's Personal Projects
 ## Building an 8-bit computer from scratch
 
 <br><br>
+
+***Update: This project is unfinished and likely will remain so for a while.***
+ 
 This project (unfinished and pictured below) is based off of and 
 primarily inspired by Ben Eater's 
 8-bit computer, 
@@ -77,7 +80,7 @@ LC3 with its 16 instruction bits; if you want to add some value *n* to
 register R1 and store it in register R0, *n* isn't unreasonably limited. 
 Given 4 bits for the opcode, 3 bits for each register, and a bit to 
 indicate referencing an immediate value, you have 5 bits for *n*, 
-meaning that *n*, an signed number, can be anywhere from -16 to 15. If 
+meaning that *n*, if it's a signed number, can be anywhere from -16 to 15. If 
 we had 8 registers (3 bits each) and tried to do the same, we couldn't 
 even fit it all into an instruction; 3 bits for the opcode plus 3 bits 
 for the source register and 3 bits for the destination register is 9 
