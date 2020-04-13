@@ -1,1 +1,1 @@
-This is my personal website, which provides an overview of notable projects I've worked on (or am working on). Interests include [TBA]
+This is my personal website, which provides an overview of notable projects I've worked on (or am working on) as well as hopefully blog posts about various things I find interesting. Interests include [TBA]
