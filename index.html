@@ -1,47 +1,47 @@
 <!DOCTYPE html>
-<html lang="en"> 
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>My Blog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        h1 {
-            color: #333;
-        }
-        .post {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 20px;
-        }
-        .post h2 {
-            margin-bottom: 10px;
-        }
-        .post-meta {
-            font-size: 0.9em;
-            color: #666;
-        }
-    </style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            padding: 20px;
+            max-width: 800px;
+        }
+        h1 {
+            color: #333;
+        }
+        .post {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 20px;
+        }
+        .post-title {
+            color: blue;
+            text-decoration: none;
+        }
+        .post-date {
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
 </head>
 <body>
-    <h1>Blog</h1>
-
-    {% for post in site.posts %}
-    <div class="post">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-        {{ post.excerpt }}
-        <a href="{{ post.url | relative_url }}">Read more...</a>
-    </div>
-    {% endfor %}
+    <h1>Blog</h1>
+    
+    {% for post in site.posts %}
+    <div class="post">
+        <h2><a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a></h2>
+        <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        <div class="post-excerpt">
+            {{ post.excerpt }}
+            <a href="{{ post.url | relative_url }}">Read more...</a>
+        </div>
+    </div>
+    {% endfor %}
 </body>
 </html>
-
